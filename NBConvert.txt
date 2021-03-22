@@ -1,0 +1,3 @@
+cd Final_Project:_Communicate_Data_Findings
+
+jupyter nbconvert Exploring_Loan_Data_Patterns_Slidedeck.ipynb --to slides --post serve --template output_toggle
